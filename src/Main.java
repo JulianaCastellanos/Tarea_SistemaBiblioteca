@@ -2,6 +2,9 @@
 public class Main {
     public static void main(String[] args) {
 
+        //Desarrollado por: Juliana Castellanos Vanegas
+        //Programación II, 302T SIS
+        
         System.out.println("-----------------------------------");
 
         Libro l1 = new Libro ("El palacio de espejos", "Margaret Peterson", 3, "disponible");
